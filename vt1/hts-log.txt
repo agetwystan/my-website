@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 29 Sep 2025 14:04:39 at https://hb8-automation.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+https://hb8-automation.com
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hb8-automation.com -O1 "C:\Users\hBonj\OneDrive\Desktop\my website\vt1\vt1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mhttps://hb8-automation.comhttps://hb8-automation.com
+https://hb8-automation.comhttps://hb8-automation.com
+	such as username/password authentication fhttps://hb8-automation.comecthttps://hb8-automation.com
+https://hb8-automation.comhttps://hb8-automation.com
+	do not share these files/folders if you want thesehttps://hb8-automation.comhttps://hb8-automation.com
+https://hb8-automation.com
+https://hb8-automation.comhttps://hb8-automation.com
+https://hb8-automation.comhttps://hb8-automation.com
+14:04:48	Error: 	"Too Many Requests" (429https://hb8-automation.comweb.cloud/comments/feed/ (from https://hb8-automation.com)
+https://hb8-automation.comhttps://hb8-automation.com
+14:04:48	Error: 	"Too Many Requests" (429) at link https://hb8-automation.comxmlrpc.php?rsd (from https://vishttps://hb8-automation.com
+
+14:04:48	Error: 	"Not Found" (404) at link https://hb8-automation.comGET (from https://hb8-automation.com)
+
+14:04:51	Error: 	"Too Many Requests" (429) at link https://hb8-automation.comkontakt/ (from https://hb8-automation.com)
+
+14:04:51	Error: 	"Too Many Requests" (429) at link https://hb8-automation.comallgemeine-geschaftsbedingungen/ (from https://hb8-automation.com)
+
+14:04:54	Warning: 	Moved Permanently for https://hb8-automation.com?p=126
+
+14:04:54	Warning: 	File has moved from https://hb8-automation.com?p=126 to https://hb8-automation.comdienstleistungen/
+
+14:04:54	Error: 	"Too Many Requests" (429) at link https://hb8-automation.comdienstleistungen/GET (from https://hb8-automation.comdienstleistungen/)
+
+14:04:54	Warning: 	Moved Permanently for https://hb8-automation.com?p=131
+
+14:04:54	Warning: 	File has moved from https://hb8-automation.com?p=131 to https://hb8-automation.comdatenschutzrichtlinie/
+
+14:04:54	Error: 	"Too Many Requests" (429) at link https://hb8-automation.comdatenschutzrichtlinie/GET (from https://hb8-automation.comdatenschutzrichtlinie/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 46 links scanned, 36 files written (7290435 bytes overall) [1454420 bytes received at 96961 bytes/sec], 6542753 bytes transferred using HTTP compression in 24 files, ratio 9%, 11.5 requests per connection
+
+(7 errors, 4 warnings, 0 messages)
+
